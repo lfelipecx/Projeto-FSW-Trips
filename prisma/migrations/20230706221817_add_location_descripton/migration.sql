@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Trip" ADD COLUMN     "locationDescripton" TEXT NOT NULL DEFAULT 'Sed efficitur ligula ut convallis finibus. In efficitur imperdiet placerat. Phasellus rutrum id nibh aliquet dapibus. Curabitur scelerisque consectetur mi. Aenean sit amet augue nec lacus luctus vestibulum. Suspendisse mattis efficitur augue, quis mattis risus dignissim non. Phasellus ac nunc vitae neque eleifend egestas id a eros. Phasellus metus odio, imperdiet et suscipit at, consequat eget neque.';

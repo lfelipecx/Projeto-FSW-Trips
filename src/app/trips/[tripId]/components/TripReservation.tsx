@@ -120,7 +120,7 @@ const TripReservation = ({ tripId, maxGuests, tripStartDate, tripEndDate, priceP
       </div>
 
       <div className="pb-10 border-b border-b-grayLighter w-full">
-        <Button onClick={() => handleSubmit(onSubmit)()} className="mt-3 w-full">
+        <Button onClick={() => handleSubmit(onSubmit)()} className="mt-3 w-full" variant={"primary"}>
           Reservar agora
         </Button>
       </div>
