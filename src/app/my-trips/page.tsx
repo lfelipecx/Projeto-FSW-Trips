@@ -10,11 +10,9 @@ import UserReservationItem from "./components/UserReservationItem";
 import Button from "@/components/Button";
 
 const MyTrips = () => {
-  const [reservations, setReservations] = useState<
-    Prisma.TripReservationGetPayload<{
+  const [reservations, setReservations] = useState<Prisma.TripReservationGetPayload<{
       include: { trip: true };
-    }>[]
-  >([]);
+    }>[]>([]);
 
   const { status, data } = useSession();
 
