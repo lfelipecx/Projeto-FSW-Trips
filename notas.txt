@@ -1,0 +1,8 @@
+Senha SupaBase: a2TnsC3W3nDT2JDj
+
+- Autenticação: NextAuth.com
+
+- Conventional commits
+
+
+Obs: aula 04 parei no minuto 2:49 npx prisma generate
