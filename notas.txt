@@ -5,4 +5,4 @@ Senha SupaBase: a2TnsC3W3nDT2JDj
 - Conventional commits
 
 
-Obs: aula 04 parei no minuto 2:49 npx prisma generate
+Obs: aula extra tem que fazer o yarn stripe login antes de fazer o commit feat: add stripe payment
