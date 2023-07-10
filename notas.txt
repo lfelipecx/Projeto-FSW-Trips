@@ -5,4 +5,7 @@ Senha SupaBase: a2TnsC3W3nDT2JDj
 - Conventional commits
 
 
-Obs: aula extra tem que fazer o yarn stripe login antes de fazer o commit feat: add stripe payment
+Obs: aula extra tem que fazer o commit feat: add stripe payment
+
+- incluir o NEXTAUTH_SECRET no vercel
+- STRIPE_WEBHOOK_SECRET_KEY= whsec_DybG0PpxMDSbcMqTHz3B5Bl8hhh6VBCA
